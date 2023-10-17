@@ -11,6 +11,8 @@ This is a saved search parser for your saved homes on Realtor.com. Exports to CS
 
 ## Wait, how do I run the script?
 
-1. `pip3 install -r requirements.txt`
-2. `$ ./realtor.py realtor.html`
+```
+pip3 install -r requirements.txt
+python3 reletor.py realtor.html
+```
 
